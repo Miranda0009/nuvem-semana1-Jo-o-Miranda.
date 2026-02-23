@@ -20,12 +20,5 @@ apiEl.textContent = JSON.stringify(data, null, 2);
 apiEl.textContent = "Erro no fetch: " + err.message;
 }
 
-Página 4
 
 });
-Parte D - Ativar o GitHub Pages (10-15 min)
-• No repositorio, clique em Settings (configuracoes).
-• No menu lateral, clique em Pages.
-• Em Build and deployment, escolha: Deploy from a branch.
-• Em Branch, selecione main e pasta /(root). Clique em Save.
-• Aguarde o GitHub gerar o link (pode levar 1-3 minutos).
