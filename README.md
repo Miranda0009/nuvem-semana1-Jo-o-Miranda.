@@ -7,6 +7,10 @@
 ## O que foi feito
 - Criei index.html, style.css e script.js pelo navegador
 - Ativei GitHub Pages (main / root)
-- 
+  
 ## Dificuldades
 - Configurar o github pages, de resto eu ja sabia fazer.
+
+# Semana 2
+- Adicionei GET e POST com java script
+-
